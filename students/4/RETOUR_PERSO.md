@@ -10,6 +10,7 @@ Exemple :
 ```
 var string = “index.html”;
 return string.lastIndexOf(‘.’); // Retournera 5
+// i=0 | n=1 | d=2 | e=3 | x=4 | .=5 | h=6 | t=7 | m=8 | l=9
 ```
 Je vois que tu as quand même essayé et c’est l’important. 
 
