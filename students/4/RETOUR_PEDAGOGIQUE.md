@@ -1,0 +1,3 @@
+# Retour à l'équipe pédagogique concernant l'Élève 4
+
+ Élève en grande difficultés, il a réussi le test1 et le test2 mais on sent qu’il n’est pas à l’aise. Le test3 il a essayé de faire un petit quelque chose mais qui n’est pas bon du tout. Il n’a rien rendu pour le 4 et le 5. Je pense qu’il n’ose pas venir demander de l’aide, je lui ai bien rappelé que l’on est là pour ça et qu’il peut compter sur nous et les autres étudiants. Je vais voir pour faire un point personnalisé avec lui directement pour qu’il puisse m’exposer toutes ses difficultés. Il faudra bien faire attention à lui pendant la correction en cours, je veillerai à cela aussi. Il pourrait très vite accumuler un grand retard.
